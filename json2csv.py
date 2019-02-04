@@ -45,3 +45,4 @@ if __name__ == "__main__":
     # df3=df2['user'].apply(pd.Series)
 
     print("df3", df3)
+    df3.to_csv("op.csv")
