@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "user": {
+        "reputation": 331663,
+        "user_id": 2901002,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://i.stack.imgur.com/hMDvl.jpg?s=128&g=1",
+        "display_name": "jezrael",
+        "link": "https://stackoverflow.com/users/2901002/jezrael"
+      },
+      "post_count": 355,
+      "score": 601
+    },
+    {
+      "user": {
+        "reputation": 128475,
+        "user_id": 4909087,
+        "user_type": "registered",
+        "accept_rate": 97,
+        "profile_image": "https://i.stack.imgur.com/VVHV6.jpg?s=128&g=1",
+        "display_name": "coldspeed",
+        "link": "https://stackoverflow.com/users/4909087/coldspeed"
+      },
+      "post_count": 213,
+      "score": 517
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9994
+}
